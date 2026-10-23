@@ -3,7 +3,7 @@
 ## AIM
 
 To study the application of Artificial Intelligence (AI) in self-driving cars and understand how AI technologies help vehicles perceive their surroundings, make decisions, and navigate safely without continuous human control.
-## THEORY      
+## THEORY
 
 A **self-driving car** is an autonomous vehicle that uses Artificial Intelligence (AI) to perceive its surroundings, understand road conditions, make driving decisions, and control the vehicle with minimal or no human intervention.
 
